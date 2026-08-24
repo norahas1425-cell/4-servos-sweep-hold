@@ -20,7 +20,7 @@ Arduino code that controls 4 servo motors using TinkerCAD simulation.
 ![Circuit Diagram](circuit-image.png)
 
 ## Demo Video
-[Circuitdesign.mp4](Circuitdesign.mp4)
+See Circuitdesign.mp4 in the repository files above.
 
 ## Program
 TinkerCAD (Arduino IDE - Text mode)
