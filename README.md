@@ -18,13 +18,14 @@ Arduino code that controls 4 servo motors using TinkerCAD simulation.
   - All Black wires → GND
 
 ![Circuit Diagram](circuit-image.png)
-<!-- استبدلي هذا السطر بصورة دائرة TinkerCAD (صدّريها من TinkerCAD وارفعيها بنفس اسم الملف) -->
 
 ## Demo Video
-[رابط أو ملف الفيديو هنا]
+[Circuitdesign.mp4](Circuitdesign.mp4)
 
 ## Program
 TinkerCAD (Arduino IDE - Text mode)
 
 ## Files
 - `four_servos_sweep_hold.ino` - Arduino source code
+- `circuit-image.png` - Circuit design screenshot
+- `Circuitdesign.mp4` - Simulation demo video
